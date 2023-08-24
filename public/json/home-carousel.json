@@ -1,0 +1,37 @@
+{
+  "items": {
+    "bootstrap": [],
+    "elastic": [
+      {
+        "id": 1,
+        "title": " احراز هویت غیرحضوری کارگزاری آگاه | ثبت نام رایگان سجام ",
+        "imageUrl": "/assets/images/webp/slider1.webp"
+      },
+      {
+        "id": 2,
+        "title": " آموزش خرید و فروش سهام در بورس + راهنمای تصویری ",
+        "imageUrl": "/assets/images/webp/slider2.webp"
+      },
+      {
+        "id": 3,
+        "title": " نحوه تغییر کارگزار ناظر در پنل معاملاتی آگاه ",
+        "imageUrl": "/assets/images/webp/slider3.webp"
+      },
+      {
+        "id": 4,
+        "title": " احراز هویت غیرحضوری کارگزاری آگاه و ثبت نام رایگان سجام ",
+        "imageUrl": "/assets/images/webp/slider4.webp"
+      },
+      {
+        "id": 5,
+        "title": " پذیره نویسی چیست و چه تفاوتی با عرضه اولیه دارد؟ ",
+        "imageUrl": "/assets/images/webp/slider5.webp"
+      },
+      {
+        "id": 6,
+        "title": " آموزش دریافت و بازیابی کد سجام ",
+        "imageUrl": "/assets/images/webp/slider6.webp"
+      }
+    ]
+  }
+}
